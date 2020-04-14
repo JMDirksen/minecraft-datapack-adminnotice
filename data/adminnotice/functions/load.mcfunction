@@ -1,3 +1,3 @@
-scoreboard objectives add diamond_mined minecraft.mined:minecraft.diamond_ore
-team add admin
+scoreboard objectives add diamonds_mined minecraft.mined:minecraft.diamond_ore
+team add Admins
 function adminnotice:check
